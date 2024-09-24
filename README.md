@@ -1,3 +1,3 @@
 # fbabook_bibtest
 
-Testing out a clone of geebook repo to fix the citation references in the Forest Business Alliance guide
+Testing out fixing references for the Forest Business Alliance Guide
