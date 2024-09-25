@@ -35,10 +35,6 @@ Scaling needed for mills, biomass, workforce. Particularly acute for finding ski
 - Public capital is not being leveraged with private.
 - Coordination across multiple actors in a region is challenging, but do-able. Look at projects in the CNRA tracking and they look puny compared to the actual task at hand of 1 million acres treated
 
-## Frameworks
-
-
-
 ## Funding
 
 ## Lessons
